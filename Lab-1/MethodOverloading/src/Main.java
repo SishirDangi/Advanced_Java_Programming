@@ -24,7 +24,7 @@ class MethodOverloading {
         System.out.println("Addition of two doubles: " + mo.add(10.5, 20.5));
 
         // Printing Lab information
-        System.out.println("\nQuestion No.: 4");
+        System.out.println("\nQuestion No.: 4a");
         System.out.println("Name: Sishir Dangi");
         System.out.println("Roll No.: 26740");
 

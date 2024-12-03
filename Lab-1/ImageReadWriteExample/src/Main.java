@@ -37,7 +37,7 @@ class ImageCopyDemo {
         }
 
         // Printing Lab information
-        System.out.println("\nQuestion No.: 13c");
+        System.out.println("\nQuestion No.: 14c");
         System.out.println("Name: Sishir Dangi");
         System.out.println("Roll No.: 26740");
     }

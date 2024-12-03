@@ -31,7 +31,7 @@ class FileOutputStreamDemo {
         }
 
         // Printing Lab information
-        System.out.println("\nQuestion No.: 13b");
+        System.out.println("\nQuestion No.: 14b");
         System.out.println("Name: Sishir Dangi");
         System.out.println("Roll No.: 26740");
     }
