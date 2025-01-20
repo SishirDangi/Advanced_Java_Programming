@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CRUDApplication/CRUDApplication.iml" filepath="$PROJECT_DIR$/CRUDApplication/CRUDApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCDisplayRecord/JDBCDisplayRecord.iml" filepath="$PROJECT_DIR$/JDBCDisplayRecord/JDBCDisplayRecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCInsertFromConsole/JDBCInsertFromConsole.iml" filepath="$PROJECT_DIR$/JDBCInsertFromConsole/JDBCInsertFromConsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCInsertRow/JDBCInsertRow.iml" filepath="$PROJECT_DIR$/JDBCInsertRow/JDBCInsertRow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCInsertWithPreparedStatement/JDBCInsertWithPreparedStatement.iml" filepath="$PROJECT_DIR$/JDBCInsertWithPreparedStatement/JDBCInsertWithPreparedStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCPreparedStatementDemo/JDBCPreparedStatementDemo.iml" filepath="$PROJECT_DIR$/JDBCPreparedStatementDemo/JDBCPreparedStatementDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCReadRecord/JDBCReadRecord.iml" filepath="$PROJECT_DIR$/JDBCReadRecord/JDBCReadRecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCReadTable/JDBCReadTable.iml" filepath="$PROJECT_DIR$/JDBCReadTable/JDBCReadTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCResultSetDemo/JDBCResultSetDemo.iml" filepath="$PROJECT_DIR$/JDBCResultSetDemo/JDBCResultSetDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab-3.iml" filepath="$PROJECT_DIR$/.idea/Lab-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RowSetDemo/RowSetDemo.iml" filepath="$PROJECT_DIR$/RowSetDemo/RowSetDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransactionManagementDemo/TransactionManagementDemo.iml" filepath="$PROJECT_DIR$/TransactionManagementDemo/TransactionManagementDemo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b998c5c-ddc0-4f68-b5df-aa971b117557" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../QuestionNo40/UDP_Sockets/src/TCPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionNo40/UDP_Sockets/src/TCPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionNo42/ServletExample/src/main/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionNo51/LayoutDemo/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFXUIControls/src/main/java/JavaFXUIControls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionNo53/CORBAExample/src/CORBAClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionNo53/CORBAExample/src/CORBAServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionNo53/CORBAExample/src/Calculator.idl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionNo53/RMIExample/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionNo53/RMIExample/src/CalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionNo53/RMIExample/src/RMIClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionNo53/RMIExample/src/RMIServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/CRUDApplication/CRUDApplication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-3/CRUDApplication/CRUDApplication.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/JDBCDisplayRecord/JDBCDisplayRecord.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-3/JDBCDisplayRecord/JDBCDisplayRecord.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/JDBCInsertFromConsole/JDBCInsertFromConsole.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-3/JDBCInsertFromConsole/JDBCInsertFromConsole.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/JDBCInsertRow/JDBCInsertRow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-3/JDBCInsertRow/JDBCInsertRow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/JDBCInsertWithPreparedStatement/JDBCInsertWithPreparedStatement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-3/JDBCInsertWithPreparedStatement/JDBCInsertWithPreparedStatement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/JDBCPreparedStatementDemo/JDBCPreparedStatementDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-3/JDBCPreparedStatementDemo/JDBCPreparedStatementDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/JDBCReadRecord/JDBCReadRecord.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-3/JDBCReadRecord/JDBCReadRecord.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/JDBCReadTable/JDBCReadTable.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-3/JDBCReadTable/JDBCReadTable.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/JDBCResultSetDemo/JDBCResultSetDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-3/JDBCResultSetDemo/JDBCResultSetDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/RowSetDemo/RowSetDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-3/RowSetDemo/RowSetDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/TransactionManagementDemo/TransactionManagementDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-3/TransactionManagementDemo/TransactionManagementDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/output jaba lab3/qno27.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/output jaba lab3/qno28.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/output jaba lab3/qno29.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/output jaba lab3/qno30.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/output jaba lab3/qno31.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/output jaba lab3/qno32.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/output jaba lab3/qno33.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/output jaba lab3/qno34.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/output jaba lab3/qno35.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/output jaba lab3/qno36.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-3/output jaba lab3/qno37.JPG" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2rc82pNbQEr6XoW7ajwQ6BYdzJ5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JavaLab_Sishir/Lab-4/QuestionNo51"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b998c5c-ddc0-4f68-b5df-aa971b117557" name="Changes" comment="" />
+      <created>1736846798444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736846798444</updated>
+    </task>
+    <servers />
+  </component>
+</project>

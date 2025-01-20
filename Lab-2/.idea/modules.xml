@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvancedMenuDemo/AdvancedMenuDemo.iml" filepath="$PROJECT_DIR$/AdvancedMenuDemo/AdvancedMenuDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorApp/CalculatorApp.iml" filepath="$PROJECT_DIR$/CalculatorApp/CalculatorApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DialogBoxDemo/DialogBoxDemo.iml" filepath="$PROJECT_DIR$/DialogBoxDemo/DialogBoxDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DialogDemo/DialogDemo.iml" filepath="$PROJECT_DIR$/DialogDemo/DialogDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventHandling/EventHandling.iml" filepath="$PROJECT_DIR$/EventHandling/EventHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventHandlingDemo/EventHandlingDemo.iml" filepath="$PROJECT_DIR$/EventHandlingDemo/EventHandlingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileAndColorChooser/FileAndColorChooser.iml" filepath="$PROJECT_DIR$/FileAndColorChooser/FileAndColorChooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI_using_swing/GUI_using_swing.iml" filepath="$PROJECT_DIR$/GUI_using_swing/GUI_using_swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageMover/ImageMover.iml" filepath="$PROJECT_DIR$/ImageMover/ImageMover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InternalFrameDemo/InternalFrameDemo.iml" filepath="$PROJECT_DIR$/InternalFrameDemo/InternalFrameDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab-2.iml" filepath="$PROJECT_DIR$/.idea/Lab-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LayoutManagersDemo/LayoutManagersDemo.iml" filepath="$PROJECT_DIR$/LayoutManagersDemo/LayoutManagersDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwingGUIComponents/SwingGUIComponents.iml" filepath="$PROJECT_DIR$/SwingGUIComponents/SwingGUIComponents.iml" />
+    </modules>
+  </component>
+</project>
